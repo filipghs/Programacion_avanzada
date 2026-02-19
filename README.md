@@ -1,7 +1,7 @@
 # Taller concurrencia
 
 Autor:
-Felipe Jose Garzon Herrera  
+Felipe José Garzón Herrera  
 Universidad Distrital Francisco José de Caldas  
 Programación Avanzada  
 Grupo: 020-85  

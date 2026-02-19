@@ -30,7 +30,7 @@ Este repositorio reúne métodos que muestran la implementación de 10 ejercicio
       
 ## Recursos necesario para su ejecución
 
-para la correcta ejecucion de los programas presentes en el taller se debe tener los siguientes recursos-programas:
+Para la correcta ejecucion de los programas presentes en el taller se debe tener los siguientes recursos-programas:
 
 1. Sistema operativo (Windows, Linux o macOs)
    
@@ -46,7 +46,7 @@ para la correcta ejecucion de los programas presentes en el taller se debe tener
 
 ## Uso
 
-Este tipo de programas esta hecho principalmente con fines educativos, no se pretende nada mas alla que el hecho de que los estudiantes se relacionen y entiendan como funcionan y se implementan soluciones concurrentes a diferentes problemas en el ambito de el desrrollo de software, para despues poder aplicarlo en ambitos laborales y de cualquier tipo.
+Este tipo de programas está hecho principalmente con fines educativos; no se pretende nada más allá de que los estudiantes se relacionen y entiendan cómo funcionan y se implementan soluciones concurrentes a diferentes problemas en el ámbito del desarrollo de software, para después poder aplicarlas en ámbitos laborales y de cualquier otro tipo.
 
 ## Contribuciones
-La naturaleza de este proyecto es netamente educativa-pedagogica, luego no se espera ningun tipo de feedback, sin embargo si deseas hacer algun tipo de aporte, es totalmente bienvenido.
+La naturaleza de este proyecto es netamente educativa-pedagógica; por lo tanto, no se espera ningún tipo de feedback. Sin embargo, si deseas hacer algún aporte, será totalmente bienvenido.

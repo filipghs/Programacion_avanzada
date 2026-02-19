@@ -34,7 +34,7 @@ Para la correcta ejecucion de los programas presentes en el taller se debe tener
 
 1. Sistema operativo (Windows, Linux o macOs)
    
-2. Oracle JVK (versión 21): https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe (sha256)
+2. Oracle JVK (versión 25): https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe
    
 3. IDE integrado, como:
 
@@ -43,6 +43,8 @@ Para la correcta ejecucion de los programas presentes en el taller se debe tener
 - *Visual Studio Code:* https://code.visualstudio.com/download
    
 - *IDE NetBeans* en su ultima version (NetBeans 28):https://netbeans.apache.org/front/main/download/nb28/
+## No funcionamiento del codigo por JVK 21
+En algunos casos puede suceder que se esté utilizando una JDK más antigua que la versión 25; en ese caso, será necesario hacer un downgrade de la JDK. No hay ningún problema con esto, pues al entrar a NetBeans y abrir el archivo que contiene el código, el mismo IDE indicará que existe un inconveniente. Solo hay que seleccionar la opción de solucionar, y el IDE realizará el downgrade de manera automática, permitiendo ejecutar y editar el proyecto sin ningún problema.
 
 ## Uso
 
